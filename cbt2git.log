@@ -1,0 +1,10 @@
+2023-04-03 01:22:54.037470 - Initialized conversion of CBT610
+2023-04-03 01:22:54.089919 - Received CBT.V504.FILE610.PDS from FILE610.XMI 
+2023-04-03 01:22:54.092968 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:22:54.094121 - Found @FILE610.txt (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/@FILE610
+2023-04-03 01:22:54.095358 - Found CHANGE71.jcl (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/CHANGE71
+2023-04-03 01:22:54.096806 - Found CHANG71J.jcl (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/CHANG71J
+2023-04-03 01:22:54.097885 - Found T.txt (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/T
+2023-04-03 01:22:54.099085 - Found TAPE2HET.jcl (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/TAPE2HET
+2023-04-03 01:22:54.100121 - Found WTOR.jcl (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/WTOR
+2023-04-03 01:22:54.101207 - Found WTORJ.jcl (text/plain) in CBT.V504.FILE610.PDS, moved to PDS/WTORJ
